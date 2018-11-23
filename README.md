@@ -5,7 +5,8 @@
 ### C++
 
 Hello! 
+* Java
 
 ## 20181124
-* class
-* function
+* List
+* Function
